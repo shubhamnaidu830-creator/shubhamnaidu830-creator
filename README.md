@@ -1,16 +1,112 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham Naidu
 
-<!--
-**shubhamnaidu830-creator/shubhamnaidu830-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science | Python | SQL | Power BI | Mathematics
 
-Here are some ideas to get you started:
+I’m an MSc Mathematics graduate currently building my skills in **Data Science, Python, SQL, Business Intelligence, and AI/ML**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems using mathematics, programming, and data — and I’m continuously building projects to turn what I learn into practical applications.
+
+---
+
+## 🚀 About Me
+
+- 🎓 MSc Mathematics
+- 📊 Currently learning Data Science
+- 🐍 Learning Python for data analysis and programming
+- 🗄️ Building a strong foundation in SQL
+- 📈 Learning Power BI and data visualization
+- 🧮 Strong academic foundation in Mathematics
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 💻 Building projects and improving my Git/GitHub workflow
+- 📚 Currently focused on becoming job-ready in Data & AI
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Data & Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🗄️ SQL Lab
+
+A structured collection of SQL exercises and database labs covering SQL fundamentals, database design, queries, and data manipulation.
+
+**Topics:** SQL • MySQL • DDL • DML • Queries • Database Design
+
+🔗 [View SQL Lab](https://github.com/shubhamnaidu830-creator/SQL)
+
+---
+
+### 📊 D-Mart Sales Analysis
+
+A data analysis project focused on exploring sales data, generating insights, and building analytical reports.
+
+**Tools:** Excel • SQL • Power BI
+
+🚧 Currently developing
+
+---
+
+### 🧮 MathLab
+
+A web-based mathematical problem-solving project combining mathematics, Python, and web technologies.
+
+**Tools:** Python • Flask • SymPy • SQLite • MathJax • Plotly
+
+🚧 Continuously improving
+
+---
+
+### 📺 Creator10K
+
+A data-driven project for exploring and analyzing YouTube creator information.
+
+**Tools:** Python • Flask • SQLite • YouTube API
+
+🚧 In development
+
+---
+
+## 📚 Current Learning Roadmap
+
+```text
+Python
+   ↓
+SQL
+   ↓
+Excel
+   ↓
+Power BI
+   ↓
+Statistics & Data Analysis
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Artificial Intelligence
