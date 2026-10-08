@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shubham Naidu
+# Hi 👋, I'm C Shubham Naidu
 
 ### Data Science | Python | SQL | Power BI | Mathematics
 
@@ -110,3 +110,41 @@ Machine Learning
 Deep Learning
    ↓
 Artificial Intelligence
+
+---
+
+## 💻 Featured Projects
+
+### 🗄️ SQL Lab
+A structured collection of SQL labs covering database creation, table design, data manipulation, and SQL queries.
+
+**Tech:** MySQL • SQL
+
+🔗 [View Repository](https://github.com/shubhamnaidu830-creator/SQL)
+
+✅ Completed
+
+### 📊 D-Mart Sales Analysis
+A data analysis project focused on exploring sales data and generating meaningful business insights.
+
+**Tech:** Excel • SQL • Power BI
+
+✅ Completed
+
+---
+
+### 🧮 MathLab
+A web-based mathematics project designed to solve and visualize mathematical problems.
+
+**Tech:** Python • Flask • SymPy • SQLite • MathJax • Plotly
+
+✅ Completed
+
+---
+
+### 📺 Creator10K
+A data-driven web application for exploring and analyzing YouTube creator information.
+
+**Tech:** Python • Flask • SQLite • YouTube API
+
+✅ Completed
